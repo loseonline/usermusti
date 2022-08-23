@@ -121,22 +121,22 @@ align="center">
   
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://instagram.com/dr.mehmetaktass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="drmehmetaktass" height="30" width="40" /></a>
-<a href="https://t.me/drmehmetaktass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="drmehmetaktass" height="30" width="40" /></a>
+<a href="https://instagram.com/5alrz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="usermusti" height="30" width="40" /></a>
+<a href="https://t.me/loseonline" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="usermusti" height="30" width="40" /></a>
 </p>
 
 ##
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<a href="https://t.me/turkcbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/turkcbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/LavanUserBot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/loseonline"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drmehmetaktass&show_icons=true&layout=compact&theme=nightowl" alt="drmehmetaktass" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usermusti&show_icons=true&layout=compact&theme=nightowl"usermusti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drmehmetaktass&show_icons=true&theme=nightowl" alt="drmehmetaktass" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usermusti&show_icons=true&theme=nightowl" alt="usermusti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drmehmetaktass&theme=nightowl" alt="drmehmetaktass" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usermusti&theme=nightowl" alt="usermusti" /></p>
 
 
 
